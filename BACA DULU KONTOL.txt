@@ -1,0 +1,4 @@
+YANG run.py itu methodnya cuma TCP SAMA UDP(L4)
+jadi beda sama L7
+ntar tinggal masukin aja ada contohnya ya kontol
+Credit:@GabrielaZVE
